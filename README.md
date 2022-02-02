@@ -1,7 +1,7 @@
 # card-generator
 
 # card-generator
-The generator is the best debit/credit card generator for personal use only.It's loads only all valid cards numbers based on an algorithm.
+The card-generator is the best debit/credit card generator for personal use only.It's loads only all valid cards numbers based on an algorithm.
 
 # Why need to use a card-generator?
 - easy to use

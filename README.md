@@ -9,6 +9,16 @@ The generator is the best debit/credit card generator for personal use only.It's
 - card number - valid too
 - you will get a variety of cards
 
+# how to use ?
+
+for ubuntu/linux users
+```
+python3 card_gen.py 
+```
+for window users
+```
+python card_gen.py 
+```
 
 # prerequisite:
 python 3.6+

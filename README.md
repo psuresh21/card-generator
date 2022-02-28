@@ -24,7 +24,7 @@ python card_gen.py
 python 3.6+
 
 # Copyright & License
-© 2022 Suresh.P 
+© 2022 Suresh Pandiyan 
 Code released under MIT License
 
 # Disclaimer
